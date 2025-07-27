@@ -1,1 +1,23 @@
-# EEG-Work
+
+![untitled10](https://github.com/user-attachments/assets/26eecae8-a3af-42a7-b50a-1ac0cee650f4)
+![untitled9](https://github.com/user-attachments/assets/07648067-1aa5-4082-a00f-9d2eb074d4a4)
+![untitled8](https://github.com/user-attachments/assets/f4cdd112-dd96-4b1a-899b-d77e6b7206a5)
+![untitled7](https://github.com/user-attachments/assets/99f43e37-d056-4b71-8943-e79f09b47427)
+![untitled6](https://github.com/user-attachments/assets/75f3e606-e85b-4edc-b37e-1eb582f393b7)
+![untitled5](https://github.com/user-attachments/assets/0da8cc87-e146-47dd-81ae-ad57c7ac77fb)
+![untitled4](https://github.com/user-attachments/assets/791e8dc7-da65-4f7e-957e-a2ea8ab9ec76)
+![untitled3](https://github.com/user-attachments/assets/b2c92e35-25ae-4290-b38f-064394f3df9b)
+![untitled1](https://github.com/user-attachments/assets/1dd7c53a-7c7a-4176-b79c-a121fd8aae6c)
+![untitled](https://github.com/user-attachments/assets/98bf3514-1b1b-43dd-986b-3d54094f3571)
+![0708](https://github.com/user-attachments/assets/0788da72-8b2c-46e8-b07d-b509cda4198a)
+<img width="1920" height="954" alt="2" src="https://github.com/user-attachments/assets/7b22b31d-5f49-4b5c-9e4f-123e75813c44" />
+<img width="1920" height="954" alt="1" src="https://github.com/user-attachments/assets/d96d2d90-e4f0-4449-86cc-9b5926a4cc30" />
+![改完电路2](https://github.com/user-attachments/assets/8745a23b-e332-44ea-a7fe-2cca07597553)
+![untitled脸上加额头](https://github.com/user-attachments/assets/baa25743-2e51-40ce-9567-7e779b57e7be)
+![untitled胳膊2](https://github.com/user-attachments/assets/7f7d1ddb-3b9f-46d9-800b-a10f4e22c4b7)
+![untitled方波](https://github.com/user-attachments/assets/b540bd42-f941-4f5a-9106-447445f20063)
+![untitled15](https://github.com/user-attachments/assets/6fcfc666-27f3-4f80-b26b-dab6ea250b22)
+![untitled14](https://github.com/user-attachments/assets/f6078b47-4f58-43da-8449-6ac4a21c13b2)
+![untitled13](https://github.com/user-attachments/assets/097d390f-80a9-4867-8c43-adfb99633da3)
+![untitled12](https://github.com/user-attachments/assets/f7628dfc-edf4-4857-aba4-51a81e578936)
+![untitled11](https://github.com/user-attachments/assets/1edeb771-138b-4ef9-b9b0-124489dfb069)
